@@ -1,0 +1,13 @@
+\\cpttpd2burv5.zres.ztech\ttp10burp\ET02189\Documents\Visual Studio 2013\Projects\blablabla\blablabla\bin\blablabla.dll.config
+\\cpttpd2burv5.zres.ztech\ttp10burp\ET02189\Documents\Visual Studio 2013\Projects\blablabla\blablabla\bin\blablabla.dll
+\\cpttpd2burv5.zres.ztech\ttp10burp\ET02189\Documents\Visual Studio 2013\Projects\blablabla\blablabla\bin\blablabla.pdb
+\\cpttpd2burv5.zres.ztech\ttp10burp\ET02189\Documents\Visual Studio 2013\Projects\blablabla\blablabla\obj\Debug\blablabla.csprojResolveAssemblyReference.cache
+\\cpttpd2burv5.zres.ztech\ttp10burp\ET02189\Documents\Visual Studio 2013\Projects\blablabla\blablabla\obj\Debug\blablabla.dll
+\\cpttpd2burv5.zres.ztech\ttp10burp\ET02189\Documents\Visual Studio 2013\Projects\blablabla\blablabla\obj\Debug\blablabla.pdb
+C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\bin\blablabla.dll.config
+C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\bin\blablabla.dll
+C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\bin\blablabla.pdb
+C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blablabla.csprojResolveAssemblyReference.cache
+C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blablabla.csproj.CoreCompileInputs.cache
+C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blablabla.dll
+C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blablabla.pdb

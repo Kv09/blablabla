@@ -1,0 +1,77 @@
+﻿.greenCA{
+    height:8%;
+    background-color:#b7b7b7;
+}
+
+.bando{
+  background-color:#13531a;
+}
+
+.perso{
+  background-color:#cfcfcf;
+}
+
+.photo{
+    height:200px;
+    width:200px;
+    border-radius:10px;
+} 
+
+.conta {
+    background-color: #e6e6e6;
+}
+
+.autre{
+  position:absolute;
+  width:100%;
+  height:100%;
+}
+
+.aligne-text {
+    text-align: center;
+}
+
+.all {
+    height: 100%;
+}
+
+.un {
+    opacity: 1.0;
+    background-image: url('../img/city.jpg');
+    background-color: #c4e4f1;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: center;
+}
+
+.deux {
+    opacity: 0;
+    background-image: url('../img/diplome_bis.jpg');
+    background-color: #99dde3;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: center;
+}
+
+.trois {
+    opacity: 0;
+    background-image: url('../img/skill.jpg');
+    background-color: #85cdcc;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position:center;
+}
+
+.retour{
+    position:absolute;
+    z-index:10;
+    top:40%;
+    left:0%;
+}
+
+.suivant {
+    position: absolute;
+    z-index: 10;
+    top: 40%;
+    right: 0%;
+}
