@@ -15,6 +15,7 @@ Modules - reusable parts of our design
   width: 90%;
   max-width: 1170px;
   margin: 0 auto;
+  margin-bottom:0px !important;
 }
 .cd-container::after {
   /* clearfix */
@@ -31,7 +32,7 @@ Main components
 #cd-timeline {
   position: relative;
   padding: 2em 0;
-  margin-top: 2em;
+  margin-top: 2em !important;
   margin-bottom: 2em;
 }
 #cd-timeline::before {

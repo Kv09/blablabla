@@ -62,6 +62,9 @@
     <Content Include="img\ca.png" />
     <Content Include="img\city.jpg" />
     <Content Include="img\diplome.jpg" />
+    <Content Include="img\epsi.png" />
+    <Content Include="img\Lasaulaie.png" />
+    <Content Include="img\lgm.jpg" />
     <Content Include="img\retour.png" />
     <Content Include="img\SchneiderElectric.jpg" />
     <Content Include="img\skill.jpg" />
