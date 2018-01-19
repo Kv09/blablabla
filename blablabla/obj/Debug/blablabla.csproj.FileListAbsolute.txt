@@ -11,3 +11,10 @@ C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blab
 C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blablabla.csproj.CoreCompileInputs.cache
 C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blablabla.dll
 C:\Users\Kv09\Desktop\Travaux Perso\blablabla\blablabla\blablabla\obj\Debug\blablabla.pdb
+D:\blablabla\blablabla\bin\blablabla.dll.config
+D:\blablabla\blablabla\bin\blablabla.dll
+D:\blablabla\blablabla\bin\blablabla.pdb
+D:\blablabla\blablabla\obj\Debug\blablabla.csprojResolveAssemblyReference.cache
+D:\blablabla\blablabla\obj\Debug\blablabla.csproj.CoreCompileInputs.cache
+D:\blablabla\blablabla\obj\Debug\blablabla.dll
+D:\blablabla\blablabla\obj\Debug\blablabla.pdb

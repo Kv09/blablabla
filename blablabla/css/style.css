@@ -33,7 +33,7 @@ Main components
   position: relative;
   padding: 2em 0;
   margin-top: 2em !important;
-  margin-bottom: 2em;
+  margin-bottom: 0;
 }
 #cd-timeline::before {
   /* this is the vertical line */
@@ -48,7 +48,7 @@ Main components
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
     margin-top: 3em;
-    margin-bottom: 3em;
+    margin-bottom: 0;
   }
   #cd-timeline::before {
     left: 50%;
@@ -196,6 +196,7 @@ Main components
   border-radius: 0.25em;
   padding: 1em;
   box-shadow: 0 3px 0 #d7e4ed;
+  height:100%;
 }
 .cd-timeline-content:after {
   content: "";
@@ -242,10 +243,11 @@ Main components
   border: 7px solid transparent;
   border-right: 7px solid white;
 }
+/* Taille écran */
 @media only screen and (min-width: 768px) {
-  .cd-timeline-content h2 {
+  .cd-timeline-content h3 {
     font-size: 20px;
-    font-size: 1.25rem;
+    font-size: 1.55rem;
   }
   .cd-timeline-content p {
     font-size: 16px;
@@ -429,4 +431,15 @@ Main components
     -o-transform: translateX(0);
     transform: translateX(0);
   }
+}
+
+@media only screen and (min-width: 1170px) {
+    h1 {
+        font-size:20px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    h1 {
+        font-size: 20px;
+    }
 }
