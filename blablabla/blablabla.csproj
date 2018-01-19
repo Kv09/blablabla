@@ -76,6 +76,8 @@
     <Content Include="img\retour.png" />
     <Content Include="img\SchneiderElectric.jpg" />
     <Content Include="img\skill.jpg" />
+    <Content Include="img\skill_30.jpg" />
+    <Content Include="img\skill_40.jpg" />
     <Content Include="img\suivant.png" />
     <Content Include="img\toad.jpg" />
     <Content Include="img\upmf.png" />
