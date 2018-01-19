@@ -59,12 +59,20 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\android.svg" />
     <Content Include="img\ca.png" />
     <Content Include="img\city.jpg" />
     <Content Include="img\diplome.jpg" />
     <Content Include="img\epsi.png" />
+    <Content Include="img\git.svg" />
+    <Content Include="img\git_bleu.svg" />
+    <Content Include="img\gmail.png" />
+    <Content Include="img\gmail.svg" />
+    <Content Include="img\gmail_border.png" />
     <Content Include="img\Lasaulaie.png" />
     <Content Include="img\lgm.jpg" />
+    <Content Include="img\linkedin.svg" />
+    <Content Include="img\linkedin_rond.svg" />
     <Content Include="img\retour.png" />
     <Content Include="img\SchneiderElectric.jpg" />
     <Content Include="img\skill.jpg" />
